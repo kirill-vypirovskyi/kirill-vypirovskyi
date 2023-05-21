@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Vue, Prisma, MongoDB**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://kirill-vypirovskyi.netlify.app/)
 
 - 📫 How to reach me **kirill.vypirovskyi@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1otnO4p5gNDtJUGWX_95FGkNPXa4_wz_3/view?usp=share_link)
 
 - ⚡ Fun fact **[Object object]**
 
