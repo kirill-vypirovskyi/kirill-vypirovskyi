@@ -26,7 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirill-vypirovskyi&show_icons=true&locale=en&layout=compact" alt="kirill-vypirovskyi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirill-vypirovskyi&show_icons=true&locale=en" alt="kirill-vypirovskyi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirill-vypirovskyi&" alt="kirill-vypirovskyi" /></p>
 
